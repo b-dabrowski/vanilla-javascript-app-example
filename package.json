@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "engines": {
+    "node": ">=15.0.0"
+  },
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
